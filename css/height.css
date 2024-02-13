@@ -1,0 +1,16 @@
+/*28BlackNinja*/
+body {
+    
+    font-family: Arial, sans-serif;
+    font-size: larger;
+}
+#height {
+    background-color:rgb(135, 248, 210);
+    
+    width: 400px;
+    margin: 400px auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
