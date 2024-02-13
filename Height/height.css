@@ -1,4 +1,4 @@
-<!28BlackNinja>
+/* 28BlackNinja */
 body {
     
     font-family: Arial, sans-serif;
@@ -6,9 +6,8 @@ body {
 }
 #height {
     background-color:rgb(135, 248, 210);
-    
-    width: 400px;
-    margin: 400px auto;
+    width: 450px;
+    margin: 100px auto;
     text-align: center;
     padding: 20px;
     border: 1px solid #ccc;
