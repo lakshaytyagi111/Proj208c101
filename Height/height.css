@@ -1,11 +1,10 @@
 /*28BlackNinja*/
 body {
-    background-size: cover;
-    background-image: url(bg1.jpg);
+    
     font-family: Arial, sans-serif;
     font-size: larger;
 }
-#calculator {
+#height {
     background-color:rgb(135, 248, 210);
     
     width: 400px;
