@@ -1,0 +1,17 @@
+/*28BlackNinja*/
+body {
+    background-size: cover;
+    background-image: url(bg1.jpg);
+    font-family: Arial, sans-serif;
+    font-size: larger;
+}
+#calculator {
+    background-color:rgb(135, 248, 210);
+    
+    width: 400px;
+    margin: 400px auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
