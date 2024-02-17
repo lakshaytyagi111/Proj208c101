@@ -1,8 +1,4 @@
-body{
-    background-image: url("./assets/fitness.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 #app {
     border: 5px solid;
     position: absolute;
