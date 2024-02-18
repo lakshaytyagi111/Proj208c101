@@ -19,7 +19,7 @@ MindGen is a web project focused on personality development and habit change. It
    - Boost your productivity with the Pomodoro Timer. Follow focused work intervals followed by short breaks using the Pomodoro Technique. Access the Pomodoro Timer by clicking [Pomodoro Timer]([./web/pomodoro.html](https://dang3rsm.github.io/Proj208c101/web/pomodoro.html)) and start your productive sessions.
 
 4. **Meditation**
-   - Find relaxation and reduce stress with the Meditation feature. Choose from various guided meditation sessions to improve your mental well-being. Explore the Meditation feature by visiting [Meditation]([./web/meditation.html](https://dang3rsm.github.io/Proj208c101/web/meditation.html).
+   - Find relaxation and reduce stress with the Meditation feature. Choose from various guided meditation sessions to improve your mental well-being. Explore the Meditation feature by visiting [Meditation](https://dang3rsm.github.io/Proj208c101/web/meditation.html).
 
 5. **Expense Tracker**
    - Take control of your finances with the Expense Tracker. Log and categorize your expenses to gain insights into your spending habits. To get started, click [Expense Tracker](https://dang3rsm.github.io/Proj208c101/web/expense.html) and manage your budget effectively.
