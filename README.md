@@ -42,3 +42,10 @@ What sets MindGen apart is its combination of diverse features, covering both ph
 ## Feasibility
 
 The project is implemented using HTML, CSS, and basic JavaScript, making it accessible and easy to deploy. The chosen technologies ensure that users can run MindGen on various web browsers without complex setup requirements.
+
+## Team Members
+
+- Sanchit Mishra
+- Sarthak Gupta
+- Sanidhya
+- Lakshay
